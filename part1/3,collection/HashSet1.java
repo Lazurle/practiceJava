@@ -1,7 +1,7 @@
 import java.util.HashSet;
 import java.util.Set;
 
-public class HashList1 {
+public class HashSet1 {
   public static void main(String args[]){
     Set<String> colors = new HashSet<String>();//HashSetは重複を許さない
     colors.add("赤");
